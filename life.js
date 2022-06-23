@@ -1,4 +1,4 @@
-alert('Hello User');
+alert('Hello user');
 
 
 let name=(" Name: Aladesanwa Jennifer olufunke");
